@@ -8,6 +8,7 @@ class Main{
 }
 public static void main(String[] args) {
   water();
+  water();//added another call to water()
   shine();
 }
 }
